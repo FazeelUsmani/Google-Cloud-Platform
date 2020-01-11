@@ -11,4 +11,4 @@ Course 2: [Essential Cloud Infrastructure: Foundation](https://github.com/Fazeel
 
 Course 1: [How Google does Machine Learning?](https://github.com/FazeelUsmani/Google-Cloud-Platform/tree/master/%5BML-1%5D%20How%20Google%20Does%20Machine%20Learning)
 
-Course 2:
+Course 2: Launching into Machine Learning
