@@ -16,3 +16,5 @@ Course 2: Launching into Machine Learning
 Course 3: Intro to Tensorflow
 
 Course 4: Feature Engineering
+
+Course 5: Art & Science of Machine Learning
