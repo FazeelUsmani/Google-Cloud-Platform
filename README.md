@@ -14,3 +14,5 @@ Course 1: [How Google does Machine Learning?](https://github.com/FazeelUsmani/Go
 Course 2: Launching into Machine Learning
 
 Course 3: Intro to Tensorflow
+
+Course 4: Feature Engineering
