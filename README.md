@@ -15,6 +15,6 @@ Course 2: [Launching into Machine Learning](https://www.coursera.org/learn/launc
 
 Course 3: [Intro to Tensorflow](https://www.coursera.org/learn/intro-tensorflow?specialization=machine-learning-tensorflow-gcp)
 
-Course 4: Feature Engineering
+Course 4: [Feature Engineering](https://www.coursera.org/learn/feature-engineering?specialization=machine-learning-tensorflow-gcp)
 
 Course 5: Art & Science of Machine Learning
