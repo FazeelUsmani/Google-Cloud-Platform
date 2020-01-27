@@ -17,4 +17,4 @@ Course 3: [Intro to Tensorflow](https://www.coursera.org/learn/intro-tensorflow?
 
 Course 4: [Feature Engineering](https://www.coursera.org/learn/feature-engineering?specialization=machine-learning-tensorflow-gcp)
 
-Course 5: Art & Science of Machine Learning
+Course 5: [Art & Science of Machine Learning](https://www.coursera.org/learn/art-science-ml)
