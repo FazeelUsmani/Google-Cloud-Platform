@@ -2,3 +2,4 @@ This repository contains the files and folder of Essential Cloud Infrastructure 
 
 
 
+![Essential Cloud Infrastructure: Foundation certificate](certificate.JPG)
